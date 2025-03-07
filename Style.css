@@ -12,7 +12,6 @@ color: black;
 
 body {
     font-family: Moderustic;  
-    text-align: center;
     background: linear-gradient(-45deg,
        #d8bfd8, /* Первый цвет */
        #fffafa, /* Второй цвет */
@@ -71,14 +70,12 @@ img {
     text-align: center;
 }
 
-.centerMobileOnly{
-    margin-left: auto; 
-    margin-right: auto;
-}
 @media (max-device-width: 800px) {
-    .centerMobileOnly {
-    margin-left: auto; 
-    margin-right: auto;
+    .blockTwo p {
+    text-align: center;
+    font-size: 28px;
+    font-family: Caveat;
+    padding: 0 5vh 0 5vh;
     }
 }
 
