@@ -53,7 +53,8 @@ img {
 
 
 .blockTwo {
-    width: 1400px;
+    width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
     padding-top: 3%;
     text-align: center;
@@ -76,9 +77,6 @@ img {
     font-size: 28px;
     font-family: Caveat;
     padding: 0 5vh 0 5vh;
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
     }
 }
 
