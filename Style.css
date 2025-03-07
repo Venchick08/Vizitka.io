@@ -12,6 +12,7 @@ color: black;
 
 body {
     font-family: Moderustic;  
+    text-align: center;
     background: linear-gradient(-45deg,
        #d8bfd8, /* Первый цвет */
        #fffafa, /* Второй цвет */
