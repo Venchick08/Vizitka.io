@@ -44,7 +44,7 @@ body {
 .headertwo {
   height: 760px;
   margin: auto;
-  background-image: url("img/header.jpeg");
+  background-image: url("image/header.jpeg");
   background-size: cover;     
   background-position: center;
   box-shadow: 0 1px 18px rgba(0, 0, 0, 0.6);
